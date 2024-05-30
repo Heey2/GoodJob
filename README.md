@@ -43,7 +43,7 @@
 
 ---
 
-### 🔎 API
+### 🔎 사용한 API 
 1. [사람인 : 채용 공고 API](https://oapi.saramin.co.kr/)
 2. [금융감독원 : 상장기업 재무정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS003&apiId=2019017)
 3. [금융감독원 : 사업보고서 주요정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS002&apiId=2019011)
