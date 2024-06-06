@@ -105,8 +105,8 @@
 <br/>
 <br/>
 <hr/>
-### 🔎 사용한 API 
-<br/>
+
+### 🔎 사용한 API
 1. [사람인 : 채용 공고 API](https://oapi.saramin.co.kr/)
 2. [금융감독원 : 상장기업 재무정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS003&apiId=2019017)
 3. [금융감독원 : 사업보고서 주요정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS002&apiId=2019011)
@@ -117,7 +117,6 @@
 ---
 
 ### 📜 프로젝트 결과물 - Documents (클릭하시면 문서화면으로 넘어갑니다!)
-<br/>
 1. [프로젝트 기획서](https://drive.google.com/file/d/1Z1Y8tXyPkJQ10732bVdiWUFsjOxM8X39/view?usp=drive_link)
 2. [요구 분석서](https://drive.google.com/file/d/1H2NWM8EzZjT2T11KR67y9gFTCQJLSit-/view?usp=drive_link)
 3. [ERD](https://drive.google.com/file/d/1R2n-NsRU5JskpHAc_c3ffYGiYBkBsjEC/view?usp=drive_link)
