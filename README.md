@@ -8,19 +8,17 @@
 
 
 # 💻 Servlet/JSP Project(It's Good JoB)
-<br/>
-<b>프로젝트 기간 : 2024년 4월 19일 ~ 2024년 5월 13일 (총 25일)  
-프로젝트 총 인원 : 5명</b><br/>
-<br/>
-
-<hr/>
 ### 📌 Summary
+<br/>
+<b>프로젝트 기간 : 2024년 4월 22일 ~ 2024년 5월 13일 (총 22일, 하루 평균 12-14시간 작업)  </b><br/>
+<b>프로젝트 총 인원 : 5명</b><br/>
 사용자 설문을 통해 근무성향조건을 파악하여 구직자의 주관적 선호 반영을 좀 더 극대화한 맞춤 기업 추천 플랫폼입니다.
 본 프로젝트는 기업 정보를 바탕으로 자체 제작한 매칭 알고리즘을 이용해 사용자별 매칭률을 계산하고, 맞춤 추천을 제공합니다.
 
 ---
 
 ### 💡 주요기능
+<br/>
 1. 회원가입 / 로그인 / 로그아웃 / 계정 찾기 / 탈퇴       
 2. 기업 / 채용 목록 조회
      - 리뷰순, 최신순, 채용중인 기업 정렬 기능
@@ -45,8 +43,6 @@
      - 기업(조회, 등록, 수정) 관리
      - 게시판(신고 게시글, 리뷰 승인/반려 등) 관리
      - 통계(가입자, 방문자, 등록기업, 리뷰 수 등) 기능
-
----
 
 <hr/>
 
@@ -112,6 +108,7 @@
 <br/>
 <hr/>
 ### 🔎 사용한 API 
+<br/>
 1. [사람인 : 채용 공고 API](https://oapi.saramin.co.kr/)
 2. [금융감독원 : 상장기업 재무정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS003&apiId=2019017)
 3. [금융감독원 : 사업보고서 주요정보 API](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS002&apiId=2019011)
@@ -122,6 +119,7 @@
 ---
 
 ### 📜 프로젝트 결과물 - Documents (클릭하시면 문서화면으로 넘어갑니다!)
+<br/>
 1. [프로젝트 기획서](https://drive.google.com/file/d/1Z1Y8tXyPkJQ10732bVdiWUFsjOxM8X39/view?usp=drive_link)
 2. [요구 분석서](https://drive.google.com/file/d/1H2NWM8EzZjT2T11KR67y9gFTCQJLSit-/view?usp=drive_link)
 3. [ERD](https://drive.google.com/file/d/1R2n-NsRU5JskpHAc_c3ffYGiYBkBsjEC/view?usp=drive_link)
